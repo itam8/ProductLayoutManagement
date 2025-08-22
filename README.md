@@ -1,1 +1,1 @@
-![](ProductLayoutManagement/Рисунок1.png)
+![asd](/Рисунок1.png)
