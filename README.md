@@ -1,7 +1,7 @@
-# Cистема управления раскладкой товаров в магазине
-[Сервер](https://github.com/itam8/ProductLayoutManagement_Server) [Клиент](https://github.com/itam8/ProductLayoutManagement_Client)
+# Cистема управления раскладкой товаров
+[Сервер](https://github.com/itam8/ProductLayoutManagement_Server) [Клиент](https://github.com/itam8/ProductLayoutManagement_Client) [Демострация работы системы](https://vkvideo.ru/video-232274289_456239017?list=ln-EtCwZKd9fMUjRa0TiS)
 
-Предназначена для автоматизации перемещения товаров с помощью виртуальной роботизированной системы потолочного расположения.
+Предназначена для автоматизации перемещения товаров в магазине с помощью виртуальной роботизированной системы потолочного расположения.
 
 Серверная часть приложения написана на Spring Boot, а клиентская часть – на JavaFX. Данные о пользователях, магазинах и товарах хранятся в БД PostgreSQL.
 
